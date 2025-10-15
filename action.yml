@@ -1,4 +1,5 @@
-name: 'Setup UiPath CLI'
+name: Setup UiPath (uipcli) command line tool
+uses: Mikael-RnD/setup-uipath@v2
 description: 'Download UiPath CLI and setup on GitHub Actions runner'
 inputs:
   version:
